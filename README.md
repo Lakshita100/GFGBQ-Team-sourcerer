@@ -17,32 +17,19 @@ The problem is to design a **safe, scalable, and intelligent system** that can a
 # 👥 Team Name
 
 **Team Sourcerer**
-*(You can change this if needed)*
+
 
 ---
 
 # 🌐 Deployed Link (Optional)
 
-*Not deployed yet (local/demo-based project)*
-*(Optional: Add link if deployed later)*
+*Not deployed yet 
 
 ---
 
-# 🎥 2-Minute Demonstration Video Link
+# 🎥 2-Minute Demonstration Video Link / 📊 PPT Link
 
-*To be added*
-*(Place your Google Drive / YouTube demo link here)*
-
----
-
-# 📊 PPT Link
-
-*To be added*
-*(Place your pitch deck link here)*
-
----
-
----
+*https://drive.google.com/drive/folders/1KevGcW2zGnvBpE7T-tAi3nSrHIg1yUud?usp=sharing*
 
 ## 📖 Project Overview
 
@@ -202,15 +189,6 @@ python main.py
 
 ---
 
-## 🖼️ Relevant Screenshots
-
-*(Add screenshots of:)*
-
-* Chat interaction
-* Supabase database tables
-* Agent flow (diagram)
-
----
 
 ## 🏆 Why This Project Stands Out
 
